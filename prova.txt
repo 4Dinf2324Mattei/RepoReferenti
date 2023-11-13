@@ -1,3 +1,12 @@
 P
+<<<<<<< HEAD
 mattia
 
+=======
+<<<<<<< HEAD
+Bryan
+=======
+Danilo
+>>>>>>> b94bbf072774d304cb89e7c8c5c17b8bb6b061ca
+>>>>>>> 79586c0dd81c97b32a97597bd532561ace9566ce
+mattia
